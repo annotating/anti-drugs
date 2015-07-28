@@ -3,4 +3,4 @@ My cousin needed help on his senior project, so we got together and made this ga
 To play, download file and drag in browser.
 
 Number of lives is on bottom left corner. 
-Defeat the bully, and avoid those uh, *things*.
+Defeat the bully, and avoid the corrupted flying *things* ;)
